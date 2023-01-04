@@ -1,0 +1,14 @@
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\bin\Debug\netcoreapp3.1\MAMS_Models.exe
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\bin\Debug\netcoreapp3.1\MAMS_Models.deps.json
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\bin\Debug\netcoreapp3.1\MAMS_Models.runtimeconfig.json
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\bin\Debug\netcoreapp3.1\MAMS_Models.runtimeconfig.dev.json
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\bin\Debug\netcoreapp3.1\MAMS_Models.dll
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\bin\Debug\netcoreapp3.1\MAMS_Models.pdb
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\obj\Debug\netcoreapp3.1\MAMS_Models.csproj.AssemblyReference.cache
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\obj\Debug\netcoreapp3.1\MAMS_Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\obj\Debug\netcoreapp3.1\MAMS_Models.AssemblyInfoInputs.cache
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\obj\Debug\netcoreapp3.1\MAMS_Models.AssemblyInfo.cs
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\obj\Debug\netcoreapp3.1\MAMS_Models.csproj.CoreCompileInputs.cache
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\obj\Debug\netcoreapp3.1\MAMS_Models.dll
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\obj\Debug\netcoreapp3.1\MAMS_Models.pdb
+E:\EDriveAllData\MuhammadUsman\MAMS_WEB\MAMS\MAMS_Models\obj\Debug\netcoreapp3.1\MAMS_Models.genruntimeconfig.cache
